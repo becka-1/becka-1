@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Bereket.
 
 <!--
 **becka-1/becka-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
