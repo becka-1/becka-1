@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-🌱 I’m currently learning back-end development.
+🌱 Full-Stack Developer
 
 
 ## 🌐 Socials:
