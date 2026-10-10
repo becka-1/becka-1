@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 🌱 Full-Stack Developer
+Portfolio: https://bereketmelaku-portfolio.vercel.app/
 
 
 ## 🌐 Socials:
